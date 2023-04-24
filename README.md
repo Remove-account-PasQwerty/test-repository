@@ -9,4 +9,4 @@
 alt="ALT-ТЕКСТ ИЗОБРАЖЕНИЯ" width="240" height="180" border="10" /></a>
 
 --
-Или можно просто вставить ссылку в квадратные скобки [Обычная ссылка с title](https://www.google.com "Сайт Google")
+Или можно просто вставить ссылку в квадратные скобки ["https://www.youtube.com/watch?v=HTMDNZOlUq4"]
