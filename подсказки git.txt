@@ -1,0 +1,19 @@
+git commit - применить изменения не изменяя главную ветку
+git checkout [name] - переключится на ветку
+git branch [name] - создать ветку с названием 
+git checkout -b [yourbranchname] - создать новую ветку и переключиться на неё
+
+git merge [name] - слияние веток
+
+git rebase [name] - слияние веток и перемещение ветки
+
+reset - перезапустить уровень
+clear - очистить чат
+
+git log - просмотр всех хешей
+git status - статус текущей ветке
+git branch - показать все ветки
+
+git checkout main^ - обратится к родителю main
+git checkout main~4 - выбор родителя для main на 4 выше
+git branch -f main HEAD~3 - перемещение ветки на 3 родителя выше
